@@ -1,11 +1,6 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: BitgramBot -->
+<!-- SUBTITLE: The BitgramBot is a bot design to enter automaticaly trades into the exchange Bittrex, through an integration with Telegram.  -->
 
-# Header This is a Test
-This is a Test
+# BitgramBot
+Version - 0.1
 
-> this is a Test
-* > test
-* test
-* test
-* 
