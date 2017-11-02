@@ -1,9 +1,9 @@
 <!-- TITLE: Waterdog Capital -->
-<!-- SUBTITLE: Esta página tem como objectivo a agregação de informação relativamente ao projecto Waterdog Capital -->
+<!-- SUBTITLE: The purpose of this Wiki is to agregate information regarding the waterDog Capital project -->
 
 # waterDogCapital
 Waterdog Capital is a joint venture formed in mid 2017 by six investors who decided to pool their resources and capabilities in order to more efficiently explore investment opportunities in their conjoint areas of interest and expertise.
-### Membros do Projecto:
+### Team:
 * Filipe Pereira
 * João Duarte
 * João Prima
