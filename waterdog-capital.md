@@ -11,8 +11,15 @@ Waterdog Capital is a joint venture formed in mid 2017 by six investors who deci
 * Luis Correia
 * Miguel Bastos
 
-## Platforms Used
+## Platforms 
+**Internal Use:**
 * Discord - Main Chat application, used for voice meetings.
-* Steemit - Project Blog
+* Telegram - Bot Alerts
 * GitHub - Code repository and Wiki Backup
-* Telegram - Telegram Project. This also has a bot to notifiy when an issue occurs in a Mining Rig
+* Wikijs - This knowledge Base
+
+**External Use:**
+* Steemit - Blog - https://steemit.com/@waterdog-capital
+* Facebook - https://www.facebook.com/WaterDogCapital/
+* Twitter - https://twitter.com/WaterDogCapital
+* Slack - https://join.slack.com/t/waterdog-capital/shared_invite/enQtMjY2MDk2MjUyNzA0LTVkYTg0N2ZmYThmODU5N2NkYzY1MTAyODI0OGEzZDU0MDhhZTJhZmY4ZmVhNDA2OThkZTc0OGVlMDNhNzE4NTc
