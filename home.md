@@ -1,14 +1,8 @@
 <!-- TITLE: BitgramBot -->
-<!-- SUBTITLE: The BitgramBot is a bot design to enter automaticaly trades into the exchange Bittrex, through an integration with Telegram.  -->
+<!-- SUBTITLE: This Wiki is being designed by João Duarte. It serves to hold information regarding different personal projects.  -->
+
+You can check all the available pages at:
+http://146.185.140.140/edit/home
 
 # BitgramBot
-Version - 0.1
 
-
-
------
-
-
-## TEST
-
-### TEST
